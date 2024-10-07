@@ -1,0 +1,12 @@
+   Current data set:
+   NAME =1023348.1_Chloroform_d   EXPNO =    10   PROCNO =     1
+   DATPATH = C:/Bruker/NMR-Daten/Produktion
+
+   Number   Integrated Region     Integral
+     1      7.792      7.493          1.24169 
+     2      7.493      7.298          49.8279 
+     3      7.298      7.132          1.08337 
+     4      3.732      3.225         0.098136 
+     5      1.897      1.637         -0.39943 
+     6      1.637      1.490           47.612 
+     7      1.489      1.243         0.536266 

@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ L:/700000-Deutero/NMR Spektren/Deutero_Bruker/1023348.1_Chloroform_d/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-27 15:21:10.006 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2024-09-27 15:13:33.050 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       D7 59 B6 0B 80 1B 5E C0 B3 23 DA 94 C1 24 D5 42
+       data hash MD5: 64K
+       C7 56 41 D3 86 4F 30 8D 76 17 EE 4C E7 1D 31 1D>)
+(   2,<2024-09-27 15:21:11.504 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       ICON-NMR User ID: Produktion
+       data hash MD5: 64K
+       C7 56 41 D3 86 4F 30 8D 76 17 EE 4C E7 1D 31 1D>)
+(   3,<2024-09-27 15:21:21.582 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<dirdata>,<TOPSPIN 3.0>,
+      <wrpa from 1 10 "1023348.1_Chloroform_d" "C:/Bruker/NMR-Daten/Produktion"
+       data hash MD5: 64K
+       C7 56 41 D3 86 4F 30 8D 76 17 EE 4C E7 1D 31 1D>)
+##END=
+
+$$ hash MD5
+$$ F8 41 AC 92 1A AC 36 83 BA AF FC 57 83 1B 58 5B

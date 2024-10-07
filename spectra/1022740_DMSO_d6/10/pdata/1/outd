@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-09-03 12:07:52.968 +0200  ARMAR\nmrsu@EP-10024183
+$$ L:/700000-Deutero/NMR Spektren/Deutero_Bruker/1022740_DMSO_d6/10/pdata/1/outd
+$$ process C:\Bruker\TOPSPIN\prog\mod\dirdata.exe
+##$CURPLOT= <HP LaserJet Professional CM1410 Series PCL 6>
+##$CURPRIN= <$HP LaserJet Professional CM1410 Series PCL 6>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/armar_1d_DMSO.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

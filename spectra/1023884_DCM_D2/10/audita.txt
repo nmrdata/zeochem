@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ L:/700000-Deutero/NMR Spektren/Deutero_Bruker/1023884_DCM_D2/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-03 11:42:07.433 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<go>,<TOPSPIN 3.0>,
+      <created by zg
+	started at 2024-10-03 11:34:30.430 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       D7 59 B6 0B 80 1B 5E C0 B3 23 DA 94 C1 24 D5 42
+       data hash MD5: 64K
+       9F 97 04 5A 99 87 FA 9A FE 13 A6 4C A5 B2 FA 17>)
+(   2,<2024-10-03 11:42:08.961 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<audit>,<TOPSPIN 3.0>,
+      <user comment:
+       ICON-NMR User ID: Produktion
+       data hash MD5: 64K
+       9F 97 04 5A 99 87 FA 9A FE 13 A6 4C A5 B2 FA 17>)
+(   3,<2024-10-03 11:42:15.669 +0200>,<ARMAR\nmrsu>,<EP-10024183>,<dirdata>,<TOPSPIN 3.0>,
+      <wrpa from 1 10 "1023884_DCM_D2" "C:/Bruker/NMR-Daten/Produktion"
+       data hash MD5: 64K
+       9F 97 04 5A 99 87 FA 9A FE 13 A6 4C A5 B2 FA 17>)
+##END=
+
+$$ hash MD5
+$$ 25 07 A2 D8 15 4C 53 74 85 E8 E8 5B 79 26 DD D9

@@ -1,0 +1,39 @@
+
+Current Data Parameters
+NAME     1023884_DCM_D2              
+EXPNO                10              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20241003              
+Time              11.42              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB-              
+PULPROG            zg30              
+TD                65536              
+SOLVENT    Dichlorometh              
+NS                   16              
+DS                    2              
+SWH            6188.119 Hz           
+FIDRES         0.094423 Hz           
+AQ            5.2953587 sec          
+RG                  203              
+DW               80.800 usec         
+DE                 8.00 usec         
+TE                300.0 K            
+D1          20.00000000 sec          
+
+======== CHANNEL f1 ========
+NUC1                 1H              
+P1                15.00 usec         
+PLW1         8.00000000 W            
+SFO1        300.1318534 MHz          
+
+F2 - Processing parameters
+SI                65536              
+SF          300.1300000 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

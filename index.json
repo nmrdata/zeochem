@@ -1,0 +1,366 @@
+{
+  "version": 4,
+  "data": {
+    "source": {
+      "entries": [
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/email_1022523_2_Aceton_d6_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/int"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/int1d"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/intgap"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/parm1.txt"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/rotation.txt"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/1022523_2_Aceton_d6/10/acqus"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/email_1022740_DMSO_d6_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/int"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/int1d"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/intgap"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/parm1.txt"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/rotation.txt"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/1022740_DMSO_d6/10/acqus"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/email_1023348.1_Chloroform_d_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/int"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/int1d"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/intgap"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/parm1.txt"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/rotation.txt"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/1023348.1_Chloroform_d/10/acqus"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/email_1023884_DCM_D2_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/int"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/int1d"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/intgap"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/parm1.txt"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/rotation.txt"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/1023884_DCM_D2/10/acqus"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/1i"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/1r"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/auditp.txt"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/email_1023916_Benzen_d6_10_1.pdf"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/int"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/int1d"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/intgap"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/intrng"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/outd"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/parm.txt"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/parm1.txt"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/proc"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/procs"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/rotation.txt"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/pdata/1/title"
+        },
+        {
+          "relativePath": "spectra/1023916_Benzen_d6/10/acqus"
+        }
+      ]
+    },
+    "spectra": [
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/1i",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/1r",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/auditp.txt",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/email_1022523_2_Aceton_d6_10_1.pdf",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/int",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/int1d",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/intgap",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/intrng",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/outd",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/parm.txt",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/parm1.txt",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/proc",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/procs",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/rotation.txt",
+            "spectra/1022523_2_Aceton_d6/10/pdata/1/title",
+            "spectra/1022523_2_Aceton_d6/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/1022740_DMSO_d6/10/pdata/1/1i",
+            "spectra/1022740_DMSO_d6/10/pdata/1/1r",
+            "spectra/1022740_DMSO_d6/10/pdata/1/auditp.txt",
+            "spectra/1022740_DMSO_d6/10/pdata/1/email_1022740_DMSO_d6_10_1.pdf",
+            "spectra/1022740_DMSO_d6/10/pdata/1/int",
+            "spectra/1022740_DMSO_d6/10/pdata/1/int1d",
+            "spectra/1022740_DMSO_d6/10/pdata/1/intgap",
+            "spectra/1022740_DMSO_d6/10/pdata/1/intrng",
+            "spectra/1022740_DMSO_d6/10/pdata/1/outd",
+            "spectra/1022740_DMSO_d6/10/pdata/1/parm.txt",
+            "spectra/1022740_DMSO_d6/10/pdata/1/parm1.txt",
+            "spectra/1022740_DMSO_d6/10/pdata/1/proc",
+            "spectra/1022740_DMSO_d6/10/pdata/1/procs",
+            "spectra/1022740_DMSO_d6/10/pdata/1/rotation.txt",
+            "spectra/1022740_DMSO_d6/10/pdata/1/title",
+            "spectra/1022740_DMSO_d6/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/1i",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/1r",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/auditp.txt",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/email_1023348.1_Chloroform_d_10_1.pdf",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/int",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/int1d",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/intgap",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/intrng",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/outd",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/parm.txt",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/parm1.txt",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/proc",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/procs",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/rotation.txt",
+            "spectra/1023348.1_Chloroform_d/10/pdata/1/title",
+            "spectra/1023348.1_Chloroform_d/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/1023884_DCM_D2/10/pdata/1/1i",
+            "spectra/1023884_DCM_D2/10/pdata/1/1r",
+            "spectra/1023884_DCM_D2/10/pdata/1/auditp.txt",
+            "spectra/1023884_DCM_D2/10/pdata/1/email_1023884_DCM_D2_10_1.pdf",
+            "spectra/1023884_DCM_D2/10/pdata/1/int",
+            "spectra/1023884_DCM_D2/10/pdata/1/int1d",
+            "spectra/1023884_DCM_D2/10/pdata/1/intgap",
+            "spectra/1023884_DCM_D2/10/pdata/1/intrng",
+            "spectra/1023884_DCM_D2/10/pdata/1/outd",
+            "spectra/1023884_DCM_D2/10/pdata/1/parm.txt",
+            "spectra/1023884_DCM_D2/10/pdata/1/parm1.txt",
+            "spectra/1023884_DCM_D2/10/pdata/1/proc",
+            "spectra/1023884_DCM_D2/10/pdata/1/procs",
+            "spectra/1023884_DCM_D2/10/pdata/1/rotation.txt",
+            "spectra/1023884_DCM_D2/10/pdata/1/title",
+            "spectra/1023884_DCM_D2/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      },
+      {
+        "sourceSelector": {
+          "files": [
+            "spectra/1023916_Benzen_d6/10/pdata/1/1i",
+            "spectra/1023916_Benzen_d6/10/pdata/1/1r",
+            "spectra/1023916_Benzen_d6/10/pdata/1/auditp.txt",
+            "spectra/1023916_Benzen_d6/10/pdata/1/email_1023916_Benzen_d6_10_1.pdf",
+            "spectra/1023916_Benzen_d6/10/pdata/1/int",
+            "spectra/1023916_Benzen_d6/10/pdata/1/int1d",
+            "spectra/1023916_Benzen_d6/10/pdata/1/intgap",
+            "spectra/1023916_Benzen_d6/10/pdata/1/intrng",
+            "spectra/1023916_Benzen_d6/10/pdata/1/outd",
+            "spectra/1023916_Benzen_d6/10/pdata/1/parm.txt",
+            "spectra/1023916_Benzen_d6/10/pdata/1/parm1.txt",
+            "spectra/1023916_Benzen_d6/10/pdata/1/proc",
+            "spectra/1023916_Benzen_d6/10/pdata/1/procs",
+            "spectra/1023916_Benzen_d6/10/pdata/1/rotation.txt",
+            "spectra/1023916_Benzen_d6/10/pdata/1/title",
+            "spectra/1023916_Benzen_d6/10/acqus"
+          ]
+        },
+        "customInfo": {}
+      }
+    ]
+  }
+}
